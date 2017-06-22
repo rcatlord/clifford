@@ -1,0 +1,22 @@
+.title-slide {
+  background-image: url(img/clifford_tower.png);
+  background-size: cover;
+}
+
+.title-slide h1 {
+  text-shadow: none;
+  color: #FFFF00;
+  margin-top: 450px;
+  margin-left: 490px;
+}
+
+.title-slide h2, .title-slide h3, .title-slide h4 {
+  text-shadow: none;
+  color: #e7e8e2;
+  font-size: 100%;
+  margin-left: 490px;
+}
+
+.title-slide .remark-slide-number {
+  display: none;
+}
